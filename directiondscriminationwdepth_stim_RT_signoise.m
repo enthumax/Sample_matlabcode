@@ -1,3 +1,5 @@
+%This is a PsychoToolbox experiment script that runs a fine direction discrimination task of a signal RDP at a disparity overlapping with a noise RDP at another disparity. 
+% Subjects press "Leftarrow" for counterclockwise and "Rightarrow" for clockwise' direction reports.
 clear all
 addpath(genpath('P:\labFolderNew\PsychoTBox'))
 subject='dummie';
